@@ -1,4 +1,25 @@
 section>p{
-    color: red;
+    color: turquoise;
+}
+
+p+article{
+    color: blueviolet;
+}
+
+.lol_paragraph{
+    font-size: 25px;
+}
+
+#about{
+    border-style: solid;
+    border-color: coral;
+}
+
+h3~p{
+    background-color: red;
+}
+
+h4{
+    font-size: 20px;
 }
 
